@@ -1,0 +1,3 @@
+[submodule "Quote_Generator"]
+	path = Quote_Generator
+	url = https://github.com/YokYoky/Quote_Generator.git
